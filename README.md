@@ -17,17 +17,19 @@ Breakdown of this notebook:
 
 4) Data Visualization:
 
-Plot a correlation map for all numeric variables
-Overtime
-Marital Status
-Job Role
-Gender
-Education Field
-Department
-Buisness Travel
-Relation between Overtime and Age
-Total Working Years
-Education Level
-Number of Companies Worked
-Distance from Home
+a)Plot a correlation map for all numeric variables
+b)Overtime
+c)Marital Status
+d)Job Role
+e)Gender
+f)Education Field
+g)Department
+h)Buisness Travel
+i)Relation between Overtime and Age
+j)Total Working Years
+k)Education Level
+l)Number of Companies Worked
+m)Distance from Home
+
+
 5) Prediction of Attrition: LGBM Classifier
