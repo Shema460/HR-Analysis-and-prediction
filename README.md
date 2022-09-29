@@ -18,17 +18,29 @@ Breakdown of this notebook:
 4) Data Visualization:
 
 a)Plot a correlation map for all numeric variables
+
 b)Overtime
+
 c)Marital Status
+
 d)Job Role
+
 e)Gender
+
 f)Education Field
+
 g)Department
+
 h)Buisness Travel
+
 i)Relation between Overtime and Age
+
 j)Total Working Years
+
 k)Education Level
+
 l)Number of Companies Worked
+
 m)Distance from Home
 
 
